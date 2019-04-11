@@ -1,0 +1,11 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_2_ControlFlow\Exercise2_ConditionalFlow\bin\Debug\netcoreapp2.1\Exercise2_ConditionalFlow.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_2_ControlFlow\Exercise2_ConditionalFlow\bin\Debug\netcoreapp2.1\Exercise2_ConditionalFlow.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_2_ControlFlow\Exercise2_ConditionalFlow\bin\Debug\netcoreapp2.1\Exercise2_ConditionalFlow.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_2_ControlFlow\Exercise2_ConditionalFlow\bin\Debug\netcoreapp2.1\Exercise2_ConditionalFlow.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_2_ControlFlow\Exercise2_ConditionalFlow\bin\Debug\netcoreapp2.1\Exercise2_ConditionalFlow.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_2_ControlFlow\Exercise2_ConditionalFlow\obj\Debug\netcoreapp2.1\Exercise2_ConditionalFlow.csprojAssemblyReference.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_2_ControlFlow\Exercise2_ConditionalFlow\obj\Debug\netcoreapp2.1\Exercise2_ConditionalFlow.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_2_ControlFlow\Exercise2_ConditionalFlow\obj\Debug\netcoreapp2.1\Exercise2_ConditionalFlow.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_2_ControlFlow\Exercise2_ConditionalFlow\obj\Debug\netcoreapp2.1\Exercise2_ConditionalFlow.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_2_ControlFlow\Exercise2_ConditionalFlow\obj\Debug\netcoreapp2.1\Exercise2_ConditionalFlow.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_2_ControlFlow\Exercise2_ConditionalFlow\obj\Debug\netcoreapp2.1\Exercise2_ConditionalFlow.pdb
